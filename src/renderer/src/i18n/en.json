@@ -1,0 +1,17 @@
+{
+  "title": "Snake",
+  "start": "Press SPACE to start",
+  "gameOver": "Game Over",
+  "score": "Score",
+  "duration": "Duration",
+  "seconds": "s",
+  "restart": "Press SPACE to restart",
+  "history": "History",
+  "noHistory": "No records",
+  "clear": "Clear",
+  "clearConfirm": "Delete all history records?",
+  "yes": "Yes",
+  "no": "No",
+  "switchLang": "中文",
+  "playAgain": "Play Again"
+}

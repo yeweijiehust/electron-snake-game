@@ -1,0 +1,17 @@
+{
+  "title": "贪吃蛇",
+  "start": "按 空格键 开始游戏",
+  "gameOver": "游戏结束",
+  "score": "分数",
+  "duration": "用时",
+  "seconds": "秒",
+  "restart": "按 空格键 重新开始",
+  "history": "历史记录",
+  "noHistory": "暂无记录",
+  "clear": "清空",
+  "clearConfirm": "确定要删除所有历史记录吗？",
+  "yes": "是",
+  "no": "否",
+  "switchLang": "English",
+  "playAgain": "再来一局"
+}
